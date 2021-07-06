@@ -1,1 +1,1 @@
-# Lora_Modbus_NELEKTRIK
+# Lora_Modbus_Ethernet
